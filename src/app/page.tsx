@@ -6,6 +6,8 @@ import Reviews from "@/components/homepage/Reviews";
 import { Product } from "@/types/product.types";
 import { Review } from "@/types/review.types";
 
+
+
 export const newArrivalsData: Product[] = [
   {
     id: 1,
